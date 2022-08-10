@@ -51,6 +51,11 @@
 		ECA81F9B28A3369900FECB31 /* Comic_book_collector */ = {
 			isa = PBXGroup;
 			children = (
+				ECA81FAA28A3370400FECB31 /* Views */,
+				ECA81FAB28A3375100FECB31 /* ViewModels */,
+				ECA81FAD28A337DE00FECB31 /* Models */,
+				ECA81FAC28A3378000FECB31 /* Services */,
+				ECA81FAE28A3382E00FECB31 /* Data */,
 				ECA81F9C28A3369900FECB31 /* Comic_book_collectorApp.swift */,
 				ECA81F9E28A3369900FECB31 /* ContentView.swift */,
 				ECA81FA028A336A300FECB31 /* Assets.xcassets */,
@@ -65,6 +70,41 @@
 				ECA81FA328A336A300FECB31 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ECA81FAA28A3370400FECB31 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ECA81FAB28A3375100FECB31 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		ECA81FAC28A3378000FECB31 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		ECA81FAD28A337DE00FECB31 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		ECA81FAE28A3382E00FECB31 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
